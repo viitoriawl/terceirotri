@@ -14,7 +14,7 @@ criaCartao(
 
 criaCartao(
 'Inglês',
-'Como se escreve obrigada em inglês?'
+'Como se escreve obrigada em inglês?',
 'Obrigada em ingês é THANK YOU.'
 
 )
