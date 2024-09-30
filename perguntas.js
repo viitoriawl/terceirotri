@@ -6,8 +6,8 @@ criaCartao(
 )
 
 criaCartao(
+'História',
+'Quando se iniciou o Taylorismo?',
+'O Taylorismo iniciou em 1911'
 
-
-
-    
 )
