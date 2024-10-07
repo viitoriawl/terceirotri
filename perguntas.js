@@ -18,3 +18,9 @@ criaCartao(
 'Obrigada em ingês é THANK YOU.'
 
 )
+
+criaCartao(
+    'Inglês',
+    'Como se escreve gato em inglês?',
+    'Gato em ingês é CAT.'
+)
