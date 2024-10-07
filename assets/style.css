@@ -1,11 +1,11 @@
 :root {
-    --text-color: #d8135f;
-    --card-front-color: #71a9ec;
+    --text-color: #f0a2c0;
+    --card-front-color: #716acf;
     --card-back-color: #a846e0;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/imagem-de-papel-de-parede-em-aquarela-azul-claro_53876-94665.avif');
     font-family: Bai Jamjuree;
 }
 
